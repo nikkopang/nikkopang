@@ -40,7 +40,7 @@
     "Machine Learning",
     "Data Visualisation",
     "UI/UX",
-    "Healthcare"
+    "Bioinformatics"
   ],
   currently_learning: ["Arduino", "LLM", "Javascript"],
   hobbies: ["travel", "writing", "cozy games", "anime"]
